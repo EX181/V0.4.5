@@ -1,0 +1,32 @@
+{
+  "name": "6008lib",
+  "version": "0.0.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@element-plus/theme-chalk": "^2.2.16",
+    "@vueuse/core": "^12.7.0",
+    "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "dayjs": "^1.11.10",
+    "gsap": "^3.0.1",
+    "lodash": "^4.17.21",
+    "pinia": "^3.0.1",
+    "vue": "^3.5.13",
+    "vue-axios": "^3.5.2",
+    "vue-i18n": "^9.2.2",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "element-plus": "^2.9.3",
+    "vite": "^6.0.5",
+    "vite-plugin-vue-devtools": "^7.6.8"
+  }
+}
